@@ -5,6 +5,7 @@
 <template>
   <header>
     <div>
+
       <NuxtLink to="/"><img src="/imgs/logo.png" width="120px" height="100px" alt="logo" /></NuxtLink>
     </div>
     <nav>
