@@ -3,6 +3,10 @@
   definePageMeta({
     layout: 'account'
   });
+
+  useHead({
+    title: 'User profile'
+  })
 </script>
 
 <template>

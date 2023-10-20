@@ -1,0 +1,151 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "What is green energy?",
+      "description": "The terms ‘green energy’ and ‘renewable energy’ are often used interchangeably, but there is one essential (and sometimes confusing) difference between them. While most green energy sources are also renewable, not all renewable energy sources are considered entirely green.\n\nRenewable energy comes from sources that are constantly and naturally renewed (hence the name), such as wind power and solar power. Renewable energy is also often called sustainable energy.\n\nA renewable energy source may not be considered ‘green’ if, for example, some carbon emissions are associated with the processes used to generate the energy – such as the building of infrastructure.Clean energy is energy that, when used, creates little or no greenhouse gas emissions.\n\nAs with renewable energy, some types of clean energy may not always be considered entirely green.",
+      "created_at": "2023-08-01",
+      "author": "Wael Salah"
+    },
+    {
+      "id": 2,
+      "title": "How Do Green Energy Products Work?\n",
+      "description": "It’s important to understand that the energy you consume will be a mix of green, renewable, and conventional energy regardless of which product you purchase. This is because all energy sources in the electric grid are mixed together when they enter the power transmission grid. From here, electricity travels to homes and businesses via the handful of regional grids that stretch across Canda and the United States.\n\nSo by buying green energy you are not directly purchasing green power for your home, but are instead paying for a small premium that covers the costs of putting more renewable energy into the grid. For those keen to go green at home who don’t have space or funds for a solar panels array, this is the best way to measurably reduce the carbon footprint associated with your energy consumption. It’s also the most affordable way to increase large-scale renewable energy investment and it gives more households and businesses access to green energy.",
+      "created_at": "2023-10-03",
+      "author": "Wael Salah"
+    },
+    {
+      "id": 3,
+      "title": "What is the Green Energy Premium For, Then?",
+      "description": "If you’re with a green energy supplier like Just Energy, you will pay a very small premium to buy green energy products—this is often akin to the price of a coffee a week or a movie ticket in most markets. This cost contributes to green energy projects, such as the development and maintenance of solar fields—so that we can move towards a cleaner, greener future together. As this movement gains more traction and funding, less of the energy that we consume will be produced by conventional methods which are unsustainable, contribute to air pollution, worsen global warming, and harm the environment.Solar is a clean source of energy which comes directly from the sun. Stars, in general, produce an unimaginable amount of energy via nuclear fusion— the process by which smaller atoms are fused together by heat and pressure to create heavier atoms—with a whole lot of energy emitted in the process. This energy then reaches us via solar radiation, which we can collect and convert it into usable electricity.\n\nSolar panels are perhaps the most common form of solar energy harvesting. These are panels full of things called photovoltaic cells. When the light from the sun hits these cells they create an electrical current through the photoelectric effect. [1] The current is then passed through an inverter to turn it into an alternating current. From here it can be used to power your home or added to the national grid mix",
+      "created_at": "2023-10-02",
+      "author": "Wael Salah"
+    },
+    {
+      "id": 4,
+      "title": "Renewable energy – powering a safer future",
+      "description": "Energy is at the heart of the climate challenge – and key to the solution.\n\nA large chunk of the greenhouse gases that blanket the Earth and trap the sun’s heat are generated through energy production, by burning fossil fuels to generate electricity and heat.\n\nFossil fuels, such as coal, oil and gas, are by far the largest contributor to global climate change, accounting for over 75 percent of global greenhouse gas emissions and nearly 90 percent of all carbon dioxide emissions.\n\nThe science is clear: to avoid the worst impacts of climate change, emissions need to be reduced by almost half by 2030 and reach net-zero by 2050.\n\nTo achieve this, we need to end our reliance on fossil fuels and invest in alternative sources of energy that are clean, accessible, affordable, sustainable, and reliable.\n\nRenewable energy sources – which are available in abundance all around us, provided by the sun, wind, water, waste, and heat from the Earth – are replenished by nature and emit little to no greenhouse gases or pollutants into the air.\n\nFossil fuels still account for more than 80 percent of global energy production, but cleaner sources of energy are gaining ground. About 29 percent of electricity currently comes from renewable sources.\n\nHere are five reasons why accelerating the transition to clean energy is the pathway to a healthy, livable planet today and for generations to come.",
+      "created_at": "2023-10-01",
+      "author": "Wael Salah"
+    },
+    {
+      "title": "GoGreen Energy",
+      "description": "GoGreen Energy is a concentrated bio-stimulant, formulated to assist plant health and relieve stress symptoms in a wide variety of amenity turf situations. It contains seaweed, plant sugars, simple carbohydratesand trace elements that have been specially selected to give optimum results when grass is stressed.\n\nThe low NPK analysis, complemented by suitable wetting andspreading agents, makes this an ideal component of any turf maintenance programme. A cold processed seaweed extract was chosen to provide the maximum amounts of plant growth hormones; such as auxins, gibberellins and betains, to capitalise on increasing the root and shoot development.\n\nIt also contains a full package of trace elements.Seaweed extracted using heat processing contains much less of the ‘natural goodness’needed to restore healthy grass plants.Go Green Energy uses a natural plant-based source of sugars and other carbohydrates that does not require a destructive sterilisation process, such as is mandatory with products containing hydrocarbons derived from bovine materials.",
+      "author": "john doe",
+      "created_at": "2023-10-07",
+      "id": 5
+    },
+    {
+      "title": "What are the benefits of green energy?\n",
+      "description": "For many people and organizations, green energy's main draw is that it's less harmful to the environment. Green energy sources like wind and solar power are superior options for avoiding harmful greenhouse gas emissions. While installing wind turbines on homes may not be possible, we can choose utility providers that supply green energy.\n\nGreen energy is also better for our physical health as it is far less responsible for polluting our air and water. According to the World Health Organization, household and ambient air pollution causes 4.2 million deaths around the world annually. Most of these deaths occurred in low- to middle‐income countries, especially Southeast Asia and the Western Pacific regions.\n\nFor this reason, we must focus more on renewable energy sources that cause less damage than their unsustainable counterparts, especially in less affluent countries.\n\nGreen energy sources like wind energy and solar power are far more sustainable options compared to fossil fuels. They offset the emissions of oxide, nitrogen dioxide and sulfur dioxide, saving substantial health issues. Renewable energy is also responsible for job creation, employing nearly 500,000 people in the U.S. in 2021.\n\nAnother advantage of green energy is that the naturally occurring resources used to harness this renewable energy will not deplete over time. Solar power is available as long as the sun continues to shine, wind energy is possible as long as the wind is blowing, and hydropower will exist as long as lakes, streams and rivers continue to flow. Each resource's consistency and reliability depend on the location; for example, the U.S. is better suited to generate solar power than other countries that receive less direct sunlight. Similarly, windy areas such as plains and the coast will likely yield better energy generation results for wind farms.\n\n",
+      "author": "My blog portal",
+      "created_at": "2023-10-07",
+      "id": 6
+    },
+    {
+      "title": "What makes an energy source green?\n",
+      "description": "For an energy source to be considered green energy, it must fall within the ranges of zero, low or neutral in greenhouse gas emissions during energy generation and operation. A zero greenhouse emissions green energy source is exactly what it sounds like; no greenhouse gases are created during the energy source's generation. A neutral greenhouse emission energy source, like biomass, for example, produces some greenhouse emissions when it is used. Its emissions are balanced out by the fact that the biomass absorbs carbon dioxide during the growing process. A low greenhouse gas emissions energy source will still create some greenhouse gases, but the amount may be minimal, especially when compared to burning coal or natural gas.",
+      "author": "My blog portal",
+      "created_at": "2023-10-07",
+      "id": 7
+    },
+    {
+      "title": "What is the cleanest source of energy?",
+      "description": "Wind is the cleanest energy source, as it reduces our reliance on fossil fuels and the amount of dangerous CO₂ that pollutes the air.\n\nUnlike other forms of renewable energy, wind power does not require much external input. For example, wind turbines do not need water to produce electricity, so using them instead of thermal power plants saves billions of gallons of water each year. Last year, wind energy generation decreased water consumption at existing power plants by about 103 billion gallons. Wind turbines are also one of the only energy sources we can install and maintain offshore. Offshore wind farms provide an invaluable opportunity to harness powerful maritime winds without disturbing nearby residents.\n\nWhile direct pollution is important to note, it's also worth remembering the indirect ways energy sources can cause pollution. For example, geothermal energy is a sustainable resource creating renewable energy, but some energy is required to harness that energy, which may come from nonrenewable sources. One could also factor in the emissions created while employees travel to their worksite, assuming they are using gas-burning modes of transportation.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 8
+    },
+    {
+      "title": "Is nuclear energy green?",
+      "description": "Nuclear energy can be considered green energy because it produces zero greenhouse emissions during energy production and operation. But some often question if nuclear waste and its storage can be dangerous. Nuclear waste can unleash toxic chemicals into the environment from improper storage/disposal or natural disasters (think: tsunamis or hurricanes). Also, some forms of nuclear waste can take thousands of years to break down to a point where its radioactivity is harmful to humans, animals and plants. For these reasons, some people are hesitant to put nuclear energy in the same category as wind, solar and hydro. But, if you are looking strictly at the numbers, particularly the amount of greenhouse gases it produces, then it can be considered green energy.\n\nAn advantage of nuclear energy is that it produces large quantities of energy from a relatively small amount of land. A nuclear facility in the U.S. that produces 1,000 megawatts of energy needs about one-square mile to operate. A wind farm would need 360 times more space to have the same energy, and a solar plant would need 75 times more. Another advantage of nuclear power is its energy efficiency due to its highly dense output.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 9
+    },
+    {
+      "title": "What are the drawbacks of green energy?",
+      "description": "Although the last few decades have seen exponential growth in renewable energy use, some drawbacks to green energy need to be considered.\n\nHere is a breakdown of some of those disadvantages:\n\nUnreliability: Some sources of renewable energy depend on weather and atmospheric conditions to function. Hydroelectric dams need enough rainfall to fill the dam and to have a constant supply of flowing water. Wind turbines require wind blowing at a minimum wind speed to move the blades. Solar panels need skies to be clear and filled with enough sunshine to generate electricity. In addition, solar panels cannot generate electricity at night.\nLower-efficiency: More work still needs to be done to make renewable energy more efficient at harvesting energy and converting it to electricity. Because of this, installation projects and the maintenance of some renewable energy sources can be pretty expensive at times, discouraging investment from companies and governments.\nSpace: Compared to other sources of energy, renewable energy sources take up space to produce energy. Solar energy can use over 100 acres of solar panels to produce around 20 megawatts of power. In comparison, a nuclear facility that is 650 acres can produce about 1,000 megawatts of electricity, whereas a solar plant the same size would only have 200 megawatts. A two-megawatt wind turbine requires 1.5 acres of space.\nStorage can be expensive: Renewable energy often needs to be stored in a battery. Just one battery can cost $10,000 to $25,000.\nGeneration capacity is still lower: Currently, renewable energy generation capacity is not large enough to meet our energy demands. As renewable energy technologies improve and energy consumption decreases due to more efficient appliances, electronics, and lighting, there may be a time where our construction of new and additional renewable energy plants will catch up to meet our energy needs. We are not there quite yet, and will still use fossil fuels and nuclear energy to supply a good portion of our energy until then.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 10
+    },
+    {
+      "title": "What is the best source of green energy?",
+      "description": "It is hard to pinpoint which green energy source is the best. Some experts argue that nuclear power is best because of its energy and space efficiency. Others would say that hydropower is the best because it is the largest renewable energy supplier in the world. It is less important to determine which source of green energy is the best, but instead, it is better to recognize the importance of green energy and its role in our future energy needs.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 11
+    },
+    {
+      "title": "Why do we need green energy?",
+      "description": "Green energy is essential because it produces little to no greenhouse gas emissions. Reducing greenhouse gas emissions will lower air pollution and help curb the devastating effects that fossil fuels have on climate change. Green energy also allows us to diversify our energy supply while reducing our dependence on imported fuels. Investing in green energy also produces jobs, especially for our next generation of workforce.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 12
+    },
+    {
+      "title": "What is a green energy plan?",
+      "description": "Green energy is energy created from natural sources. Therefore, a green energy plan is what residents use to access renewable energy at home. As an Inspire member, you can get access to clean energy for one flat monthly price. By simply signing up at Inspire, you have the power to make a difference. Various energy companies can offer different plans. You will need to find a provider in your area that offers a green energy plan that works for you.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 13
+    },
+    {
+      "title": "Is green energy right for me?",
+      "description": "Green energy sources are far better for the environment, so if you're interested in using resources that are healthier and longer-lasting, green energy is undoubtedly right for you.\n\nResources like wind power are also getting cheaper each year. One U.K. renewable report estimated that electricity generated from onshore wind or solar power could be supplied at half the cost of gas-fired power plants by 2025. This cost reduction often means that utility providers can offer customers fixed prices on energy for up to 25 years, hedging against fluctuating fuel costs.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 14
+    },
+    {
+      "title": "What does all this mean for consumers?",
+      "description": "The growth of wind energy means more accessible clean energy for the masses. For consumers, it means steady and predictable prices and the knowledge that we are doing our part to reduce the need for environmentally harmful energy sources.\n\nAs an Inspire member, you can access clean energy for one flat price while reducing your home's carbon emissions.\n\n",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 15
+    },
+    {
+      "title": "Wildfire smoke isn't just a West Coast phenomenon anymore",
+      "description": "The Northeast U.S. has in recent years seen milky skies spurred by raging wildfires — a life-altering spectacle that people on the West Coast have come to view as inevitable. This spring, that growing reality came earlier than the typical summer timeline when Canadian wildfires resulted in a smoky haze blanketing some of America’s most populous areas, including New York, Philadelphia, and Washington, DC. Isolated events aside, weather patterns and a warming climate have exacerbated wildfire risk and strength, leading to some of the worst air quality on record in the U.S. As this phenomenon becomes more common—with extended fire seasons and other factors intensifying their impact—people should consider switching to a clean energy provider. ",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 16
+    },
+    {
+      "title": "Stronger hurricanes are coming, and climate change is one cause",
+      "description": "Hurricanes are becoming more intense and destructive in part thanks to climate change, scientists have found. Warming oceans, more atmospheric moisture, changes in atmospheric circulation, and rising sea levels all contribute to stronger storms that can even intensify after landfall, leaving damage and destruction in their wake. \n\nWhile climate change cannot be identified as the only link to stronger hurricanes, it’s certainly playing a role. Look to the rapid intensification of Hurricane Ian in 2022, Hurricane Ida in 2021 or Hurricane Laura in 2020 for evidence of this pattern.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 17
+    },
+    {
+      "title": "Benefits of Renewable Energy",
+      "description": "The advantages of renewable energy are numerous and affect the economy, environment, national security, and human health. Here are some of the benefits of using renewable energy in the United States:\n\nEnhanced reliability, security, and resilience of the nation’s power grid\nJob creation throughout renewable energy industries \nReduced carbon emissions and air pollution from energy production\nIncreased U.S. energy independence\nIncreased affordability, as many types of renewable energy are cost-competitive with traditional energy sources\nExpanded clean energy access for non-grid-connected or remote, coastal, or islanded communities.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 18
+    },
+    {
+      "title": "Deriving long-term operating rules of the hydro-wind-PV hybrid energy system considering electricity price",
+      "description": "In recent years, researchers have derived the optimal operating rules of the hybrid system for guiding its long-term operation. Yang et al. [29] investigated the long-term multi-objective optimization model of the Longyangxia hydro-PV system, deriving the operating rules by implicit stochastic optimization (ISO). For the same system, Li et al. [30] carried out a study on the long-term complementary operation based on explicit stochastic optimization. Zhang et al. [31] proposed a simulation method to characterize the uncertainty and then estimated the probability density function of operating decisions for the HWPES. Ming et al. [32] established a multi-objective optimization model to identify the most effective operating rules designed. However, the above researches focused the power generation of the hybrid system, rather than the economic benefit, which was, in fact, influenced by varied electricity prices.\n\nAlthough many studies considered the electricity market, most of them were on short-term operation (e.g., a day). Yuan et al. [33] simulated the uncertainty of the day-ahead market electricity price through a scenario analysis technique in the contract and spot markets and derived an operating rule of cascade hydropower stations. Pousinho et al. [34] studied the benefit maximization by modeling the residual demand curves to get the short-term optimal operating rule in the electricity market. Ak et al. [35] proposed a variable price method to estimate hourly electricity prices and then built a nonlinear programming model to obtain the operating rule of Yusufeli Dam in Turkey. Jurasz et al. [36] analyzed the operation of a hydro-PV hybrid power station in the day-ahead electricity market, and the electricity prices are taken from an optimal bidding strategy through historical data. Jia et al. [37] proposed a day-ahead market clearing method to figure out the quarter-hourly clearing plan of cascade hydropower stations. Cheng et al. [38] considered day-ahead market bidding and bilateral contracts decomposition and optimized the short-term operation for the HWPES. To maximize the economic benefit, long-term operating rules should be given to provide a boundary condition for the short-term operation [39,40]. However, the economic benefit is difficult to estimate [41,42] because of the power curtailment that occurs in the short-term [[43], [44], [45]]. Therefore, the long-term operating rules of the HWPES in the electricity market are challenges due to the short-term operation is seldom considered.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 19
+    },
+    {
+      "title": "Renewable biomass-derived, P-doped granular activated carbon for efficient oxidation of 5-hydroxymethylfurfural to 2,5-diformylfuran",
+      "description": "In comparison to conventional stoichiometric oxidants, oxygen has been employed as a green oxidant in the transformation of HMF to DFF over a variety of heterogeneous catalysts, the majority of which are supported metal-based catalysts like Ru/C [14,15], FeNx/C [16], V-CS [17], and Cs/MnOx [18]. However, these types of catalytic systems are frequently hampered by increasing costs, inevitable metal leaching, or even deactivation [19,20]. The development of environmentally friendly metal-free catalysts, particularly heteroatom-doped carbon materials with abundant functional groups and defects, has recently received a lot of attention [21,22]. Zhang et al. developed a N-doped carbon catalyst (NC-950) to catalyze the aerobic oxidation of HMF by HNO3, obtaining a 95.1% HMF conversion and high selectivity for DFF [23]. Later, Cao et al. fabricated a N, P co-doped carbon catalyst from urea and phytic acid for the aerobic oxidation of HMF, achieving a DFF yield of 99.5% [24]. These results revealed that heteroatom-doped carbon catalysts have the potential to perform well in the selective aerobic oxidation of HMF to DFF. However, heteroatom-doped carbon catalysts are typically used in powdered form, which can lead to a significant increase in the volume of catalyst required, thereby complicating the operation process, increasing settling time, and raising recycling costs [25]. Hence, the development of activated carbon in a granular form is a promising strategy to solve these problems.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 20
+    },
+    {
+      "title": "A transient heat losses model for two-tank storage systems with molten salts",
+      "description": "Solar energy is a renewable and clean energy source that harnesses the dispersed energy from the sun to transform it into a more useful form of energy: either direct electricity generation through photovoltaic panels (PV) or thermal energy for heating, cooling, or power generation through a power cycle. Unlike fossil fuels, which are major contributors to global warming, solar energy is a sustainable energy source because it does not produce harmful emissions or pollutants. The use of this type of renewable energy resources not only reduce the amount of greenhouse gas emissions, but it also helps decrease the dependence on fossil fuel. Furthermore, investing in solar energy can create jobs and stimulate local economies, making it a win-win situation for both the environment and economy [1].\n\nDirect electricity generation through PV panels has several advantages, such as its simple and robust configuration, but it has a main challenge that is difficult to overcome: dispatchability. The electricity generation is directly linked with the sun time and intensity, being the only commercial solution available the use of costly batteries for electricity storage. On the other hand, Concentrating Solar Power (CSP) can easily store the energy thermally for its dispatch when required with little energy losses and in a cheap way, and both the technology and the storage system has been extensively proved commercially. Commercial CSP plants use mirrors or lenses to concentrate the solar radiation and transform it to heat, which is then transferred to a Heat Transfer Fluid (HTF). This heat is then used to power a turbine that generates electricity. CSP technology can be used to generate electricity on a large scale for utility power plants, and on a smaller scale for residential and commercial applications. As it can be seen, the power generation and the heat generation are decoupled in a CSP plant, becoming this an important factor since a CSP plant could provide at the same time electricity and high quality heat (at very high temperatures). This capability is starting to gather interest for its use on the residential heat & cooling sector and for the decarbonization of the industry.",
+      "author": "My blog portal",
+      "created_at": "2023-10-18",
+      "id": 21
+    }
+  ]
+}
