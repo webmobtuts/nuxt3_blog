@@ -1,6 +1,6 @@
 # Nuxt 3 Simple App
 
-Check out the [tutorial video](https://webmobtuts.com) on https://webmobtuts.com.
+Check out the [tutorial video](https://www.youtube.com/watch?v=rCmAvgjuNaU&list=PLRKk5RpSyRSVFpUfYSCBXd0uwFQAB7Rbo) from https://webmobtuts.com.
 
 ## Setup
 
